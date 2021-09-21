@@ -1,0 +1,25 @@
+Hi myself aniket gaudgaul; i am from pune.
+I like astronomy and also do nature paintings.
+Also quite interested in Machine learning and data science.
+Looking forward to learn much more from AI club!
+
+3 blue one brown
+amazon machine learning
+freecodecamp
+
+3Blue 1Brown is amazing! It's quite interesting as we have learnt these topics earlier,
+but never looked at it with a geometrical perspective. The way a vector is represented 
+as a matrix, and understanding various transformations helped to unviel the real 
+meaning of it. 
+
+Hello maam Good afternoon 
+     my name is Aniket Gaudgaul from Kothrud Pune, my complete education till now is from pune
+     currently pursuing BE in computer eng at PVGCOET
+     I am quite interested in the field of
+     Machine learning and Data Science.
+     I am a Part of vlabs community
+     me and my team Nisarg and Anushka have won Hackathon 2k21 ....
+     Also served as a resource person in Introduciton to web development workshop at pvg and Currently a 
+     part of AI club as well.
+     Some of my hobbies are reading about Astronomy , 
+     nature paintings and learning about technologies and stuff.
